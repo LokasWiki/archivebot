@@ -1,4 +1,17 @@
 <?php
+/*
+***************************************************************************************
+* ⚠️ Warning ⚠️
+*
+* This code is old and not recommended for use.
+* It is preferable to use the Python bot code as it is more effective and secure.
+* This code is here solely for archival purposes and to prevent its loss, so it can be referred to at any time.
+*
+* Programmer joke: Why don't programmers like nature? It has too many bugs! 😄
+*
+* Another joke: If you read this code despite the warning, don't blame me if you get frustrated! 😜
+***************************************************************************************
+*/
 //php -f D:\work\bot\Peachy-master\script\MyScripts.php >  D:\work\bot\Peachy-master\text.txt
 require( dirname(__DIR__,1) .'/Init.php' );
 
