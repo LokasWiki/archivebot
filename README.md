@@ -1,20 +1,32 @@
-Peachy MediaWiki Framework
-=======
+# ملاحظة هامة ⚠️
 
-This is a framework for Mediawiki sites
+لا أنصح أبدًا باستخدام الكود القديم الخاص ببوت الأرشفة. بل يُفضل استخدام كود بوت البايثون لأنه أكثر فعالية وأمانًا. هذا الكود موجود هنا فقط لأغراض الأرشفة ولحفظه من الضياع حتى يمكن الرجوع إليه في أي وقت.
 
-If you have feature requests please file a bug.
+## طريقة التشغيل 🚀
 
-###### Badges
+```ssh
+become your_tool_name
+webservice php7.4 shell
+cd sc
+php script/MyScripts.php
+```
 
-* Status: [![Build Status](https://travis-ci.org/MW-Peachy/Peachy.svg?branch=master)](https://travis-ci.org/MW-Peachy/Peachy)
-* Coverage: [![Code Coverage](https://scrutinizer-ci.com/g/MW-Peachy/Peachy/badges/coverage.png?s=c4f43d2284ed1fe068b692b9d7778f940912f2ee)](https://scrutinizer-ci.com/g/MW-Peachy/Peachy/)
-* Quality: [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/MW-Peachy/Peachy/badges/quality-score.png?s=16084244d02ed6ee537ab1dbd1c7bc4310a30049)](https://scrutinizer-ci.com/g/MW-Peachy/Peachy/)
+---
 
-###### Addwiki (alternative)
 
-For a more modern set of libraries please consider taking a look at the addwiki PHP libraries.
+# Important Note ⚠️
 
-* GitHub: https://github.com/addwiki
-* Docs: https://addwiki.readthedocs.io
-* Issue tracker: https://phabricator.wikimedia.org/project/profile/1490/
+I do not recommend using the old code for the archiving bot. Instead, it is preferable to use the Python bot code as it is more effective and secure. This code is here solely for archival purposes and to prevent its loss, so it can be referred to at any time.
+
+## How to Run It 🚀
+
+```ssh
+become your_tool_name
+webservice php7.4 shell
+cd sc
+php script/MyScripts.php
+```
+
+---
+
+يمكنك الآن وضع هذا النص في ملف `README.txt` على GitHub.
