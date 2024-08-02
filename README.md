@@ -28,5 +28,3 @@ php script/MyScripts.php
 ```
 
 ---
-
-يمكنك الآن وضع هذا النص في ملف `README.txt` على GitHub.
